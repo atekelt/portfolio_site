@@ -680,7 +680,7 @@ h1, h2, h3, h4, h5,
 	.img{
 		width: 100%;
 		@include media-breakpoint-down(md){
-			height: 400px;
+			height: auto;
 		}
 	}
 	h2{
@@ -1442,7 +1442,7 @@ textarea.form-control {
 
 .about-image{
 	@include media-breakpoint-down(sm){
-		height: 400px;
+		height: auto;
 		margin-bottom: 30px;
 	}
 }
@@ -1503,7 +1503,7 @@ textarea.form-control {
 		display: block;
 		width: 100%;
 		@include media-breakpoint-down(md){
-			height: 400px;
+			height: auto;
 			background-position: top center !important;
 		}
 	}

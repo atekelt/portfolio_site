@@ -8651,7 +8651,7 @@ h1, h2, h3, h4, h5,
   width: 100%; }
   @media (max-width: 991.98px) {
     .ftco-intro .img {
-      height: 400px; } }
+      height: auto; } }
 
 .ftco-intro h2 {
   font-size: 60px; }
@@ -9286,7 +9286,7 @@ textarea.form-control {
 
 @media (max-width: 767.98px) {
   .about-image {
-    height: 400px;
+    height: auto;
     margin-bottom: 30px; } }
 
 .image-popup {
@@ -9336,7 +9336,7 @@ textarea.form-control {
   width: 100%; }
   @media (max-width: 991.98px) {
     .ftco-counter .img {
-      height: 400px;
+      height: auto;
       background-position: top center !important; } }
 
 .ftco-counter .heading-section h2 span {
